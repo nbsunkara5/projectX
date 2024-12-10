@@ -1,1 +1,2 @@
-Hi, this is for git testing!
+Hi, this is for git testing
+Test went well!
